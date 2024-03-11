@@ -1,2 +1,3 @@
 ini file pertama
 fitur rebash file pertama
+update file pertama
